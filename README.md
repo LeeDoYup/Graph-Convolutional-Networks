@@ -4,11 +4,11 @@ Now adays, convolutional operation in graph-structred data showed rapid grow of 
 Related with this, read https://tkipf.github.io/graph-convolutional-networks/.
 
 Used Libraries' version:
-** Python 2.7.12
-** numpy 1.13.3
-** tensorflow 1.0.1
-** python-igraph 0.7.1
-** scipy 1.0.0 
+* Python 2.7.12
+* numpy 1.13.3
+* tensorflow 1.0.1
+* python-igraph 0.7.1
+* scipy 1.0.0 
 
 
 ## Semi-supervised_classification_with_GCN
